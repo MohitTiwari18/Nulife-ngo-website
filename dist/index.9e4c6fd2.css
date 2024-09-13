@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.ngo-thought > h1, .ngo-thought > p {
+  text-align: center;
+}
+
+.ngo-thought img {
+  background-blend-mode: lighten;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.footer {
+  text-align: center;
+  box-shadow: -x 41ppx 20px 14px #0003;
+  background-color: #01a390;
+  border-radius: 5px;
+  width: auto;
+  margin: 10px;
+  padding: 20px 10px;
+}
+
+.footer > i {
+  padding: 0 5px;
+  font-size: smaller;
+}
+
+.fa-heart {
+  color: #8b0000;
+}
+
+.footer > strong {
+  padding-left: 5px;
+}
+
+.footer > strong > span {
+  color: #cb3600;
+}
+
+.keyPoint {
+  text-align: center;
+  color: #fff;
+  background-color: #8fe548;
+  width: auto;
+  height: 120px;
+  padding: 20px 10px;
+  font-size: 18px;
+  font-weight: 500;
+  position: relative;
+  top: 50%;
+}
+
+.keyPoint > h2 {
+  display: block;
+  position: relative;
+  top: 50px;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
